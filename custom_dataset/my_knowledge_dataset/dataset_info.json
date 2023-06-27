@@ -1,0 +1,48 @@
+{
+  "builder_name": "csv",
+  "citation": "",
+  "config_name": "default",
+  "dataset_size": 8759,
+  "description": "",
+  "download_checksums": {
+    "/home/alvinngyh/transformers/examples/research_projects/rag/custom_ds/aiap_ds.csv": {
+      "num_bytes": 8669,
+      "checksum": null
+    }
+  },
+  "download_size": 8669,
+  "features": {
+    "text": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "title": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "embeddings": {
+      "feature": {
+        "dtype": "float32",
+        "_type": "Value"
+      },
+      "_type": "Sequence"
+    }
+  },
+  "homepage": "",
+  "license": "",
+  "size_in_bytes": 17428,
+  "splits": {
+    "train": {
+      "name": "train",
+      "num_bytes": 8759,
+      "num_examples": 15,
+      "dataset_name": "csv"
+    }
+  },
+  "version": {
+    "version_str": "0.0.0",
+    "major": 0,
+    "minor": 0,
+    "patch": 0
+  }
+}

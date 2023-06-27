@@ -1,0 +1,12 @@
+This program is developed by apprentices from Batch 12 of AI Singapore's Apprenticeship Program, with contributions from the following people (in alphabetical order):
+
+- Alvin Ng Yong Han
+- Choon Lee Yoong (Cerise)
+- Mohammad Hanafi Bin Md Haffidz
+- Ong Zhi Xuan
+
+
+AIAP RAG Chatbot also contain pieces of code from the following packages:
+
+- RAG by Patrick Lewis et al: https://github.com/huggingface/transformers/tree/main/examples/research_projects/rag
+

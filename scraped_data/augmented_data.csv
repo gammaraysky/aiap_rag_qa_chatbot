@@ -1,0 +1,1934 @@
+,question,answers
+0,What are the differences between 100 Experiments for Industry (100E4I) and 100 Experiments for Research (100E4R),"
+
+
+
+ 
+100E4I
+100E4R
+
+
+
+Collaboration duration
+ 
+
+
+9 months
+ 
+
+
+18-24 months
+ 
+
+
+
+
+Project duration
+ 
+
+
+7 months
+ 
+
+
+18-24 months
+ 
+
+
+
+Who develops the AI Minimal Viable Model (MVM)?
+
+AISG engineering team with Project Manager, AI Engineer/Mentor, AI Apprentices and supported by MLOps team.
+
+
+Principle Investigator (PI) and team from A*STAR, NUS, NTU, SMU, SIT, SUSS or SUTD
+
+
+
+
+ 
+ 
+Who owns the IP?
+*Regardless of IP arrangements, any foreground IP resulting from the 100E will be retained for research purposes.
+
+
+ 
+Solely owned by Project Sponsor.
+ 
+ 
+
+
+ 
+At 30% cash contribution, IP is jointly owned (Tenants in Common) between Project Sponsor and the research institution where PI is from.
+At 50% cash contribution, IP is solely owned by Project Sponsor.
+
+
+
+
+ 
+AISG Grant
+
+
+ 
+S$180,000.00 (includes IRC)
+
+
+ 
+S$330,000.00 (includes IRC)
+
+
+
+
+Cash & In-Kind Contributions by the Project Sponsor
+ 
+ 
+ 
+ 
+
+
+ 
+Cash:
+S$75,816 (includes IRC & GST)
+ 
+ 
+ 
+In-Kind (manpower):
+Minimum S$126,000.00
+
+
+ 
+Cash:
+Minimum 30%: S$99,000.00
+IRC: stated by research institution
+GST: Prevailing rate
+
+In-Kind (manpower):
+Minimum S$231,000.00
+
+
+
+
+ 
+Which party receives the AISG grant and the cash contribution?
+
+
+ 
+AISG.
+Assemble the AI engineering team
+
+
+ 
+PI.
+Hire research and engineering team
+
+
+
+
+IRC:  Indirect Research Costs "
+1,What are the differences between 100 experiments for industry (100E4I) and 100 experiments for research (100E4R),"100E4I
+100E4R
+
+
+
+Duration of cooperation
+
+
+
+9 months
+
+
+
+18-24 months
+
+
+
+
+
+Project duration
+
+
+
+7 months
+
+
+
+18-24 months
+
+
+
+
+Who develops the minimum viable AI model (MVM)?
+
+AISG Engineering Team with Project Manager, AI Engineer/Mentor, AI Students and MLOps team support.
+
+
+Principal Investigator (PI) and team from A*STAR, NUS, NTU, SMU, SIT, SUSS or SUTD
+
+
+
+
+
+
+Who owns the IP?
+* Regardless of intellectual property agreements, any front end intellectual property obtained from 100E will be retained for research purposes.
+
+
+
+Belongs exclusively to the Project Sponsor.
+
+
+
+
+
+At a 30% cash down payment, the IP is jointly owned (joint tenants) by the Project Sponsor and the research institution from which the PI hails.
+With a 50% cash contribution, the IP belongs exclusively to the Project Sponsor.
+
+
+
+
+
+AISG Grant
+
+
+
+SGD 180,000 (including IRC)
+
+
+
+SGD 330,000 (including IRC)
+
+
+
+
+Cash and in-kind contributions from the project sponsor
+
+
+
+
+
+
+
+Cash:
+S$75,816 (including IRC and GST)
+
+
+
+In-kind (labor):
+Minimum SGD 126,000.00
+
+
+
+Cash:
+Minimum 30%: SGD 99,000.00.
+IRC: Claimed by a research institution.
+GST: current rate
+
+In-kind (labor):
+Minimum SGD 231,000.00
+
+
+
+
+
+Which party receives the AISG grant and cash contribution?
+
+
+
+AISG.
+Assemble a team of AI engineers
+
+
+
+PI.
+Hire a team of researchers and engineers
+
+
+
+
+IRC: indirect research costs"
+2,How does an organisation apply for the 100 Experiments (100E)?,"
+AISG will provide the templates for an organisation to submit a proposal.
+The proposal will be evaluated on:
+
+Is it an AI use case?
+Does the proposed AI solution create substantial business value or impact for the organisation and its stakeholders (employees, customers, partners, investors, etc)?
+Is a commercial off-the-shelf solution available?
+Is the AI technology available to produce the outcomes that the organisation expects?
+Can the AI model(s) be developed within 7 months or 18 to 24 months?
+Are there relevant and sufficient annotated data to train the AI model(s)?
+
+ 
+Only companies with IT/R&D/Engineering teams in Singapore will be considered. "
+3,How does an organization apply for the 100 Experiment (100E)?,"AISG provides templates for organizations to submit proposals.
+Proposals will be evaluated for:
+
+Is this an AI use case?
+Will the proposed AI solution create significant business value or impact for the organization and its stakeholders (employees, customers, partners, investors, etc.)?
+Are commercial off-the-shelf solutions available?
+Can AI technologies be used to produce the outcomes organizations expect?
+Can you develop an AI model in 7 months or 18-24 months?
+Do you have relevant and sufficient annotation data to train your AI model?
+
+
+Only companies with an IT/R&D/engineering team in Singapore will be considered."
+4,What are my responsibilities as a Project Sponsor?,"
+To ensure a successful outcome from the 100E project, Project Sponsors are expected to have the following:
+
+A clear problem statement and objective
+Active contribution from the 3 key roles (Product Owner, Project Lead, Technical Lead)
+Be able to provide the required datasets and
+Be able to take over the solution for integration and deployment
+ "
+5,What are my responsibilities as a project sponsor?,"To ensure the success of the 100E project, project sponsors must have the following:
+
+A clear problem statement and objective
+Active contribution of the 3 key roles (Product Owner, Project Lead, Technical Lead)
+Be able to provide the required datasets and
+Be able to take control of the solution for integration and deployment"
+6,Can I have AI apprentices on my project?,"
+AI apprentices will be assigned for all 7-month 100E-Industry project. 
+AI apprentices together with the AISG project manager and AI engineer/mentor from the AISG engineering team are also made available to the PI for the 18 to 24-month 100E-Research project. "
+7,Can I have AI trainees in my project?,"AI Apprentices are assigned to all 100E-Industry projects of 7 months.
+AI Apprentice is also available for his PI for 18-24 months 100E-Research project with AISG Project Manager and AI Engineer/Mentor on his AISG Engineering team."
+8,Who can be the Principal Investigator (PI) or Co- Principal Investigator (Co-PI)?,"
+The 100E PI (and Co-PI) has to be a full-time employee from an autonomous university or A*STAR. Full time is defined as at least 9 months of service a year or 75% appointment.
+It is preferred that either the PI or Co-PI has research expertise in the required AI technology and/or technique. "
+9,Who can be a Principal Investigator (PI) or Co-Principal Investigator (Co-PI)?,"The 100E PI (and Co-PI) must be a full-time employee of an autonomous university or A*STAR. Full-time is defined as at least 9 months of service per year or 75% appointment.
+It is preferred that the PI or Co-PI have research experience in the required AI technology and/or technique."
+10,How long does it take for my proposal to be approved?,"
+The review of the proposal and the sample datasets typically require 2 months. 
+One the proposal is ready, it is presented for approval at AISG's 100E approval committee. The committee meetings are scheduled about 7-8 times a year. "
+11,How long does it take to approve my proposal?,"The evaluation of the proposal and the sample datasets usually takes 2 months.
+Once the proposal is ready, it will be submitted to AISG's 100E Approval Committee for approval. Committee meetings are scheduled approximately 7-8 times per year."
+12,What if I do not have any datasets?,"
+Datasets are fundamental to developing any deep-learning AI solution. It is preferred that the collection and annotation of data are completed before the commencement of the 100E, as these activities are not included in the scope of the 100E project. 
+Volume of data required will be advised by the research team/ AISG engineering team based on the use case and technique used for the AI model development.
+Have the correct datasets, is a good indication of the AI Readiness of the company. "
+13,What if I don't have any dataset?,"Datasets are fundamental to the development of any deep learning AI solution. It is preferred that data collection and annotation be completed prior to the start of the 100E as these activities are not within the scope of the 100E project.
+The required data volume is recommended by the research team/AISG engineering team based on the use case and technique used for AI model development.
+Having the right data sets is a good indication of the company's AI readiness."
+14,When is the cash contribution required?,"
+The total cash (including the Indirect Research Costs and GST) to be paid will be invoiced to the organisation upon the endorsement of the Research Collaboration Agreement (RCA) for the project. "
+15,When is the cash contribution required?,The full cash (including Research Indirect Costs and GST) payable will be invoiced to the organization upon approval of the Research Collaboration Agreement (RCA) for the project.
+16,What does 'in-kind contribution' mean?,"
+Project Sponsor’s in-kind contributions comprise of the manpower assigned to the project. 
+They provide the domain expertise required for the development of the AI solution. 
+3 key roles are required: 
+
+Product Owner
+Project Lead
+Technical Lead
+
+These project members have to be employees of the Project Sponsor.  
+
+
+
+Role
+Function
+
+
+Product Owner
+Business lead who specifies the requirements of the AI solution
+
+
+Project Lead
+Project manager
+
+
+Technical Lead
+Technical engineer responsible for the integration, deployment and maintenance of the AI solution
+
+
+
+Datasets (for training the AI models) and infrastructure for deployment or other non-manpower resources are not considered as in-kind contributions. "
+17,What does 'in-kind donation' mean?,"The in-kind contributions of the Project Sponsor consist of the workforce assigned to the project.
+They provide the domain expertise needed to develop an AI solution.
+3 key roles required:
+
+Product Owner
+Project Manager
+Technical guide
+
+These project participants must be employees of the Project Sponsor.
+
+
+
+Role
+Function
+
+
+Product Owner
+Business leader defining AI solution requirements
+
+
+Project Manager
+Project Manager
+
+
+Technical guide
+Technical engineer responsible for integrating, deploying and maintaining the AI ​​solution
+
+
+
+Datasets (for training AI models) and infrastructure for deployment or other non-labor resources are not considered in-kind contributions."
+18,Who are the AI apprentices?,"
+
+
+The AI apprentices are Singaporeans who have qualified for for a full-time 9-months programme known as the AI Apprenticeship Programme (AIAP).
+The apprentices typically are graduates with a university degree, some will have Masters and a few may have a PhD. 
+They come from all disciplines and career domain, have strong foundational knowledge in machine learning concepts, and have intermediate-level Python or R programming skills.
+More information on the AIAP is provided here.
+
+
+  "
+19,Who is AI Apprentice?,"The AI ​​trainees are Singaporeans who qualified for a 9-month full-time program known as the AI ​​Apprenticeship Program (AIAP).
+Trainees typically graduate with a bachelor's degree, some will have master's degrees, and some may have a doctorate.
+They come from all professional disciplines and domains, have a strong foundational understanding of machine learning concepts, and have intermediate-level Python or R programming skills.
+More information about the AIAP is provided here."
+20,How can I prepare for the AIAP programme?,"
+This is one of the most frequent question, and we have prepared articles and resources to help you.
+Check out the following materials:
+
+AIAP Field Guide (PDF)
+AIAP Field Guide (Course)
+AIAP Assessment
+
+to find out how you can prepare for the AIAP programme. "
+21,How can I prepare for the AIAP program?,"This is one of the most frequently asked questions, and we've put together articles and resources to help.
+Check out the resources below.
+
+AIAP Field Guide (PDF)
+AIAP Field Guide (Course)
+AIAP evaluation
+
+Learn more about how to prepare for the AIAP program here."
+22,What type of candidates are we looking for in AIAP?,"
+We are looking for candidates who possess a keen interest to pursue a career in the area of machine learning and data science. We believe that candidates can come from any area of specialization, and the eligibility and requirements are as follows:
+
+Eligibility
+
+Singaporean only
+Graduated from a recognized university or Polytechnic* (*with at least 3 years of working experience)
+Eligible for TeSA CLT / TMCA Funding
+
+
+Technical Knowledge and proficiency requirements
+
+Intermediate programming experience in one of these languages: Python, R, Scala, Java, C, C++, C#, Go
+Understand basic data pre-processing (handling missing data, outliers etc…)
+Build machine learning models using frameworks such as TensorFlow, PyTorch, Keras, and scikit-learn
+Build machine learning pipeline that consists of modular and sequential components to train and build models
+Apply software engineering best practices in basic code documentation (Readme, docstrings and requirements.txt)
+Deploy your models in Docker containers
+Able to provision and use of cloud computing infrastructure such as Microsoft Azure
+Able to do Linux shell scripting
+Able to use at least one of the following database and data processing technologies such as SQL, NoSQL, Apache Hadoop and/or Apache Spark
+Able to use GitHub/GitLab and perform proper code check-in/out and repository
+Understand Statistical fundamentals
+
+
+
+Beyond that, we are looking for candidates who are self-directed, independent learners, good problem solvers and work well in teams. Selection is competitive and the above are more likely our minimum requirements.  Please review this article for more information.
+This post was modified 4 months ago by wendyt Halim Outcompute to outcompete | Growing our own timber
+ "
+23,What types of candidates does AIAP look for?,"We are looking for interested applicants to pursue a career in machine learning and data science. Applicants can come from any specialization and the qualifications and requirements are as follows:
+
+eligibility
+
+Singaporeans only
+Graduated from an accredited university or polytechnic* (*minimum 3 years work experience)
+Eligible for TeSA CLT / TMCA funding
+
+
+Technical knowledge and proficiency requirements
+
+Intermediate programming experience in one of the following languages: Python, R, Scala, Java, C, C++, C#, Go
+Understand basic data preprocessing (handling missing data, outliers, etc...)
+Build machine learning models using frameworks such as TensorFlow, PyTorch, Keras, and scikit-learn.
+Build a machine learning pipeline consisting of modular and sequential components for training and building models.
+Apply software engineering best practices in native code documentation (Readme, docstrings, and requirements.txt)
+Deploy the model to a Docker container
+Ability to provision and use cloud computing infrastructure such as Microsoft Azure
+Linux shell scripter
+You can use one or more of the following database and data processing technologies: SQL, NoSQL, Apache Hadoop, and/or Apache Spark.
+Ability to use GitHub/GitLab and perform proper code check-in/out and repositories
+Understanding statistics basics
+
+
+
+Beyond that, we are looking for candidates who are self-directed, independent learners, great problem solvers, and work well in teams. The selection is competitive and the items above are likely our minimum requirements. Review this article for more details.
+This post was edited 4 months ago by wendyt Halim. Outcompute to outcompete | grow our own wood"
+24,"""Eligible for TeSA CLT / TMCA Funding""","
+The requirements have always been there.. "
+25,Eligible for TeSA CLT/TMCA funding,There have always been demands...
+26,How is the Technical Assessment and Interview conducted?,"
+Refer to the article on AIAP® Assessment here
+"
+27,How is the Technical Assessment and Interview carried out?,Consult the article about AIAP® Assessment here
+28,What is the difference between the 9 and 12 months of AIAP apprenticeship period?,"
+
+
+
+Programme Period
+9 Months
+12 Months
+
+
+Age Criteria
+Singaporeans below 40 years
+Singaporeans 40 years & above
+
+
+Programme Outline
+
+
+2 months hybrid online and face to face mentoring; self-directed learning; and
+
+ 
+
+7 months on the job training via multiple AI project tracks to deep-skill
+
+
+
+
+2 months hybrid online and face to face mentoring; self-directed learning
+
+ 
+
+7 months on the job training via multiple AI project tracks to deep-skill; and
+
+ 
+
+3 months assignment to project teams within AI Singapore to get additional business and technical hands-on experience
+
+
+
+
+ "
+29,What is the difference between the 9 and 12 month AIAP internship?,"Program period
+9 months
+12 months
+
+
+Age criteria
+Singaporeans under the age of 40
+Singaporeans 40 and over
+
+
+Program overview
+
+
+2 months of hybrid online and face-to-face mentoring; self study; And
+
+
+
+7 months of on-the-job training through multiple AI project paths to deep-skill
+
+
+
+
+2 months of hybrid online and face-to-face mentoring; self study
+
+
+
+7 months of on-the-job training through multiple AI project paths to deep-skill; And
+
+
+
+3 months assignment to project teams within AI Singapore to gain additional business and technical hands-on experience"
+30,What are the laptop requirements for AIAP?,"
+
+
+
+
+
+
+
+
+
+You are required to use your own laptop for the AI Apprenticeship Programme (AIAP).
+We recommend that your laptop meets the minimum requirements as listed below:
+
+Recent (the last 5 years) x86-based hardware with either Intel or AMD processor
+64-bit Operating System. This can be Windows (Windows 7 and above), Linux or Mac OS X
+A minimum of 8GB of memory
+A minimum of 128GB of hard disk space available
+
+For the software stack, we recommend that you install the following:
+1. Docker
+
+If you are running Mac OS X, please follow the official instructions from Docker (
+
+
+
+DOCS.DOCKER.COM  ""https://docs.docker.com/docker-for-mac/install/""
+Install Docker Desktop on Mac
+Install Docker for Mac to get started. This guide covers system requirements, where to download, and instructions on how to install and update.
+
+
+).
+If you are running Linux, please follow the official instructions from Docker (
+
+
+
+DOCS.DOCKER.COM  ""https://docs.docker.com/install/linux/docker-ce/ubuntu/""
+Install Docker Engine on Ubuntu
+Jumpstart your client-side server applications with Docker Engine on Ubuntu. This guide details prerequisites and multiple methods to install.
+
+
+).
+If you are running Windows 10 Pro, you can install the official Docker for Desktop from the website (
+
+
+
+DOCS.DOCKER.COM  ""https://docs.docker.com/docker-for-windows/install/""
+Install Docker Desktop on Windows
+Get started with Docker for Windows. This guide covers system requirements, where to download, and instructions on how to install and update.
+
+
+).
+If you are running a Windows OS other than Windows 10 Pro, we strongly recommend you install VirtualBox and install Linux as a guest Virtual Machine for your Docker needs. You can download the VirtualBox here: 
+
+
+VIRTUALBOX.ORG  ""https://www.virtualbox.org/wiki/Downloads/""
+Downloads – Oracle VM VirtualBox
+
+
+.
+
+2. Python 
+
+Install the latest Anaconda Distribution with Python version 3 (
+
+
+ANACONDA.COM  ""https://www.anaconda.com/distribution/""
+Anaconda | Anaconda Distribution
+Anaconda's open-source Distribution is the easiest way to perform Python/R data science and machine learning on a single machine.
+
+
+).
+Please refer to the following link: 
+
+
+
+HELP.GITHUB.COM  ""https://help.github.com/articles/set-up-git/""
+Set up Git - GitHub Docs
+At the heart of GitHub is an open-source version control system (VCS) called Git. Git is responsible for everything GitHub-related that happens locally on your computer.
+
+
+
+
+3. SSH
+
+If you are running Mac OS X or Linux, this should already be available on your system.
+If you are running Windows, follow the same instructions for Docker in step 1 and SSH will be available as part of the Docker installation or via a Linux Virtual Machine.
+
+4. A text editor or IDE
+
+We recommend Visual Studio Code (
+
+
+
+CODE.VISUALSTUDIO.COM  ""https://code.visualstudio.com/""
+Visual Studio Code - Code Editing. Redefined
+Visual Studio Code is a code editor redefined and optimized for building and debugging modern web and cloud applications.  Visual Studio Code is free and available on your favorite platform - Linux, macOS, and Windows.
+
+
+) or if you prefer, any others such as Vim/Emacs, PyCharm (CE), etc.
+
+
+
+ 
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ "
+31,What are the laptop requirements for AIAP?,"The AI ​​Apprenticeship Program (AIAP) requires the use of your own laptop.
+We recommend that your laptop meets the minimum requirements listed below:
+
+Current (in the last 5 years) x86-based hardware with an Intel or AMD processor
+64-bit operating system. This can be Windows (from Windows 7), Linux or Mac OS X
+At least 8 GB of RAM
+At least 128 GB hard disk space available
+
+For the software stack we recommend the following installation:
+1. Dockers
+
+If you are using Mac OS X, please follow Docker's official instructions (
+
+
+
+DOCS.DOCKER.COM ""https://docs.docker.com/docker-for-mac/install/""
+Install Docker Desktop on Mac
+Install Docker for Mac to get started. This guide covers the system requirements, where to download, and installation and update instructions.
+
+
+).
+If you are using Linux, please follow Docker's official instructions (
+
+
+
+DOCS.DOCKER.COM ""https://docs.docker.com/install/linux/docker-ce/ubuntu/""
+Install Docker engine on Ubuntu
+Launch your client-side server applications with Docker Engine on Ubuntu. This guide describes the prerequisites and several installation methods.
+
+
+).
+If you're running Windows 10 Pro, you can download the official Docker for Desktop from the website (
+
+
+
+DOCS.DOCKER.COM ""https://docs.docker.com/docker-for-windows/install/""
+Install Docker Desktop on Windows
+Start with Docker for Windows. This guide covers the system requirements, where to download, and installation and update instructions.
+
+
+).
+If you're running a Windows OS other than Windows 10 Pro, we highly recommend installing VirtualBox and installing Linux as a guest virtual machine for your Docker needs. You can download the VirtualBox here:
+
+
+VIRTUALBOX.ORG ""https://www.virtualbox.org/wiki/Downloads/""
+Downloads - Oracle VM VirtualBox
+
+
+.
+
+2. Python
+
+Install the latest Anaconda distribution with Python version 3 (
+
+
+ANACONDA.COM ""https://www.anaconda.com/distribution/""
+anaconda | Anaconda Distribution
+Anaconda's open-source distribution is the easiest way to do Python/R data science and machine learning on a single computer.
+
+
+).
+Please refer to the following link:
+
+
+
+HELP.GITHUB.COM ""https://help.github.com/articles/set-up-git/""
+Set up Git - GitHub Docs
+At the heart of GitHub is an open-source version control system (VCS) called Git. Git is responsible for everything GitHub-related that happens locally on your machine.
+
+
+
+
+3.SSH
+
+If you're running Mac OS X or Linux, this should already be available on your system.
+If you're running Windows, follow the same instructions for Docker in Step 1, and SSH is available as part of the Docker installation or through a Linux virtual machine.
+
+4. A text editor or IDE
+
+We recommend Visual Studio Code (
+
+
+
+CODE.VISUALSTUDIO.COM ""https://code.visualstudio.com/""
+Visual Studio Code - code editing. Newly defined
+Visual Studio Code is a code editor redefined and optimized for building and debugging modern web and cloud applications. Visual Studio Code is free and available on your preferred platform - Linux, macOS, and Windows.
+
+
+) or, if you prefer, others like Vim/Emacs, PyCharm (CE), etc."
+32,What if I decided to drop out of AIAP?,"
+
+
+
+
+
+
+
+
+
+As AIAP is a fully sponsored programme, if you drop out of the programme, you will have to reimburse AI Singapore for the monthly training allowance that has been paid out to you and the programme fees.
+
+
+
+
+
+
+
+
+ "
+33,What if I decide to stop AIAP?,"As AIAP is a fully sponsored programme, if you withdraw from the programme, you will be required to reimburse AI Singapore for your monthly training allowance and program fees paid."
+34,How much is the monthly stipend and how is the monthly training allowance determined?,"
+The monthly training allowance or stipend value is calculated based on relevant experiences in AI, ML, Data-science, software engineering, associated software development and educational qualifications listed in your curricula vitae (CV) submitted when you applied for AIAP.
+The monthly training allowance is between SGD 3500 – SGD 5500.
+It is therefore important to indicate your education qualifications and your work experiences clearly in your CV. The monthly training allowance value offered is not negotiable. "
+35,What is the monthly salary and how is the monthly training allowance determined?,"The monthly apprenticeship allowance or scholarship value is calculated based on relevant experience in the fields of AI, ML, data science, software development, related software development and educational qualifications detailed in your resume (CV) submitted when applying to AIAP.
+The monthly apprenticeship allowance ranges from SGD 3500 – SGD 5500.
+It is therefore important that you make your educational qualifications and work experience clear on your CV. The monthly training allowance offered is non-negotiable."
+36,Why do I need to have 2 guarantors when I accept the AIAP admission offer?,"
+AIAP is a fully sponsored programme by the Singapore government, hence AI Singapore requires all apprentices to have 2 working Singaporeans / Singapore Permanent Residents with minimum annual income of $30,000 as guarantors.
+Guarantors will be responsible for the payback of the fees (sponsored by AISG and/or AISG’s funding partners) when there is a breach of the terms & conditions/trainee agreement and the apprentice is unable to pay back the fees. "
+37,Why do I need to have 2 guarantors when I accept the AIAP admission offer?,"As AIAP is a fully sponsored program by the Singapore Government, AI Singapore requires all apprenticeships to have two working Singaporeans/Singapore Permanent Residents with a minimum annual income of $30,000 as guarantors.
+The Guarantor is responsible for reimbursement of fees (sponsored by AISG and/or AISG's funding partners) in the event of a breach of the Terms of Use/Trainee Agreement and the Apprentice's failure to repay the fees."
+38,What AI tools and frameworks would the AIAP apprentices know?,"
+
+
+
+
+
+
+
+
+
+Most of the projects done by the AIAP apprentices would be built in Python and using frameworks such as Tensorflow/Keras, PyTorch.
+They would also have built their tools on platforms such as Microsoft Azure Cloud, Google Cloud, AWS and Spark/Databricks.
+However, each apprentice would typically be proficient in more tools than those listed above, as they would be involved in different types of projects which require different types of tools and programmes.
+
+
+
+
+
+
+
+
+ "
+39,What AI tools and frameworks would AIAP trainees know?,"Most of the projects carried out by the AIAP students are built in Python and using frameworks such as Tensorflow/Keras, PyTorch.
+They would also have built their tools on platforms such as Microsoft Azure Cloud, Google Cloud, AWS and Spark/Databricks.
+However, each learner would typically be more proficient in more tools than those listed above as they would be involved in different types of projects that require different types of tools and programs."
+40,How do I hire these AI Talents?,"
+You can submit your JD via the job portal here at The Epoch.
+If you are a 100E project sponsor, or planning to be a 100E project sponsor, we can help organize a 1-2 hour workshop for you to share your job opportunities with the graduating AIAP cohort, and for you to meet them and for the apprentices to learn more about your organization. "
+41,How do I hire these AI talents?,"You can submit your JD via the job portal here at The Epoch.
+If you are a sponsor of the 100E Project, or plan to be a sponsor of the 100E Project, we can help organize a 1-2 hour workshop to share your job opportunities with the AIAP graduating cohort, and for you to meet with them and the interns to learn more about your organization."
+42,Can I hire these Talents as interns?,"
+It is unlikley any of our apprentices will join you as an intern.
+Our apprentices are well sought after by the industry – 4 out of 5 will secure a full time role in AI/Data Science even before officially completing the Apprenticeship Programme, a testament of the industry’s recognition of our Programme’s rigour. "
+43,Can I hire these people as interns?,"It is unlikely that any of our trainees will join you as an intern.
+Our trainees are highly sought after by the industry: 4 out of 5 will secure a full-time position in AI/Data Science even before officially completing the Apprenticeship Program, a testament to the industry's recognition of the rigor of our Program."
+44,Do I have to pay talent placement fees?,"
+There are no costs for partnering us. Our goal is to assist companies in Singapore in recruiting certified AI talent. "
+45,Do I have to pay for talent placement?,It costs nothing to work with us. Our goal is to assist Singaporean companies in recruiting certified AI talent.
+46,How qualified are the Apprentices?,"
+The AIAP is a rigorous programme, and graduates of the AIAP programme land into roles such as Data Scientist, AI/ML Engineers, MLOps Engineers and similar roles with leading organizations such as DBS Bank, Grab, ST Engineering, Google etc.
+The apprentices  typically have a degree, and some have Masters and a few are PhD holders across many disciple. "
+47,What is the qualification of apprentices?,"The AIAP is a rigorous program, and graduates of the AIAP program advance to roles such as Data Scientist, AI/ML Engineers, MLOps Engineers and similar roles with leading organizations such as DBS Bank, Grab, ST Engineering , Google, etc
+Apprentices usually have degrees, and some have master's degrees, and a few have doctorates among many disciples."
+48,What if I am halfway through the old AI4E?,"
+The old AI4E is archived and you will not be able to access the content anymore.
+We encourage you to take this new version to have a better learning outcome. AI4E (version 3.0) has 5 video modules averaging 18 minutes and quizzes to affirm your understanding of key points. You can watch the video and learn at your own pace.
+
+
+ "
+49,What if you are in the middle of the old AI4E?,"The old AI4E will be archived and the content will be inaccessible.
+We recommend using this new version for better learning outcomes. AI4E (version 3.0) has 5 video modules averaging 18 minutes and a quiz to check your understanding of the key points. Watch videos and learn at your own pace."
+50,Do I get a new badge if I take AI4E (version 3.0)?,"
+
+
+
+
+
+
+
+
+
+If you have completed the previous version of AI4E, you will not receive a new badge for completing the new version.
+
+
+
+
+
+
+
+
+
+
+
+ "
+51,Will I get a new badge if I take AI4E (version 3.0)?,"If you completed the previous version of AI4E, you will not receive a new badge for completing the new version."
+52,What is the difference between the previous AI4E and version 3.0?,"
+
+
+
+
+
+
+
+
+
+We have updated key AI concepts for your understanding. There are also new content on AI Ethics and standardization to promote responsible AI for everyone.
+
+
+
+
+
+
+
+
+
+
+
+ "
+53,What is the difference between the previous AI4E and the 3.0 version?,We've updated key AI concepts for your understanding. There's also new content on AI ethics and standardization to promote responsible AI for all.
+54,What will happen to my badge from the previous version of AI4E?,"
+
+It remains listed in your learning dashboard (see My Account). However we strongly encourage you to take the AI4E (version 3.0) to refresh your AI literacy.
+
+
+
+ "
+55,What will happen to my old AI4E version credential?,"It remains listed in your learning dashboard (see My Account). However, we strongly recommend that you take AI4E (version 3.0) to refresh your AI literacy."
+56,Why do you have a new version of AI4E (version 3.0)?,"
+We refresh our learning content regularly so that you can understand the latest development of AI and have a better learning outcome.
+
+
+ "
+57,Why do you have a new version of AI4E (version 3.0)?,We update our learning content regularly so that you can understand the latest AI development and have a better learning outcome.
+58,How can I sign up for LearnAI AI4E course?,"
+Sign up for LearnAI as a free member here to start your learning and enrol into the AI4E course (located in “Everyone” category)
+
+
+ "
+59,How can I enroll in the LearnAI AI4E course?,Sign up for LearnAI as a free member here to start learning and enroll in our AI4E courses (located in the 'All' category).
+60,When is the next AI4E workshop?,"
+We have conducted our last live-streamed session in Jun 2021. AI4E is now available in LearnAI. To start your learning, sign up for LearnAI as a free member and enrol into the AI4E course (located under the “Everyone” category)
+
+
+ "
+61,When is the next AI4E workshop?,"We conducted our last live stream session in June 2021. AI4E is now available on LearnAI. To start your learning, sign up for LearnAI as a free member and enroll in the AI4E course (located in the ""All"" category)"
+62,Will I get a AI4E certificate of completion?,"
+
+
+
+
+
+
+
+
+
+Upon completion of our LearnAI AI4E course, you will be awarded a digital badge from LearnAI.
+
+
+
+
+
+
+
+
+
+
+
+ "
+63,Can I get a certificate of completion for AI4E?,"Upon completion of our LearnAI AI4E course, you will receive a LearnAI digital badge."
+64,Is LearnAI AI4E course free?,"
+
+
+
+
+
+
+
+
+
+Yes, the AI4E course is free. All you need to do is sign up for LearnAI as a free member to start your learning.
+
+
+
+
+
+
+
+
+
+
+
+ "
+65,Is the LearnAI AI4E course free?,"Yes, the AI4E course is free. All you have to do is sign up to LearnAI as a free member to start your learning."
+66,"After Completing The LearnAI AI4E Course, I Am Interested To Learn More. What Can I Do Next?","
+Upon completion of the LearnAI AI4E courses, you may wish to continue your AI learning by signing up for the AI for Industry (AI4I) programme.
+"
+67,"After completing the LearnAI AI4E course, I'm interested in learning more. What can I do next?","After completing the LearnAI AI4E courses, you may want to continue your AI learning by enrolling in the AI ​​for Industry (AI4I) program."
+68,Will I get a new badge or certificate if I complete the new Literacy in AI?,"
+
+
+Both courses will be awarded the same Literacy in AI certificate. Only one such certificate will be given regardless of the number of completions.
+
+
+
+
+ "
+69,Will I get a new badge or certificate if I complete the new AI Literacy?,"Both courses get the same literacy in AI certificate. Only one such certificate will be issued, regardless of the number of completions."
+70,What if I cannot finish the previous version of the course by the end of the transition period?,"
+
+
+Access to the previous version been removed at the end of the transition period. Your progress will be lost if you were unable to finish the course by then. You will then need to complete the new version of the course in order to receive the certificate.
+
+
+ 
+
+
+ "
+71,What if I can't complete the previous version of the course before the end of the transition period?,Access to the previous version was removed at the end of the transition period. Your progress will be lost if you were unable to complete the course at that time. You will then need to complete the new version of the course in order to receive the certificate.
+72,What if I decide to drop out of AI4I?,"
+
+
+
+
+
+
+
+
+
+Once you enroll for the course, you are not allowed to drop out / withdraw from the course. You may choose not to complete any of the learning.
+
+
+
+
+
+
+
+
+
+
+
+ "
+73,What if I drop out of AI4I?,"After enrolling in the course, it is no longer possible to cancel/withdraw from the course. You can choose not to complete any of the learning steps."
+74,What are the pre-requisites for AI4I?,"
+
+
+
+
+
+
+
+
+
+While there are no pre-requisites for AI4I, we recommend learners to complete the AI4E suite of courses (AI for Everyone® Theory, Hands-on (HDB)and Hands-on (Student Grades) ) before embarking on AI4I – Literacy in AI
+
+
+
+
+
+
+
+
+
+This post was modified 6 months ago 2 times by  
+
+ "
+75,What are the prerequisites for AI4I?,"While there are no prerequisites for the AI4I, we recommend that students complete the AI4E suite of courses (AI Theory for All®, Practical (HDB) and Practical (Student Grades)) before embarking on AI4I – AI Literacy
+
+
+
+
+
+
+
+
+
+This post was modified 6 months ago 2 times by"
+76,Do I have to give up my current job to join AI4I?,"
+
+
+
+
+
+
+
+
+
+No. This course is designed to enable professionals to continue to learn and up-skill at their own pace.
+
+
+
+
+
+
+
+
+
+
+
+ "
+77,Do I have to leave my current job to join AI4I?,No. This course is designed to enable professionals to continue learning and refining their skills at their own pace.
+78,Who is AI4I for and what are the outcomes upon completion?,"
+AI4I is a fully online programme meant to provide technical executives, managers and developers a learning experience in building data and AI application using Python. Upon completion, you will be able to build basic data/AI applications.
+
+
+ "
+79,Who is AI4I for and what are the end results?,"AI4I is a fully online program designed to provide technical executives, managers and developers with a learning experience in building data and AI applications using Python. Upon completion, you will be able to build basic data/AI applications."
+80,My AI4I programme period was extended and I purchased an additional DataCamp Premium Plan Access Code to continue my learning. Where can I locate the Access Code? (for learners from AI4I Batch 5 & May 2020 ONLY),"
+The DataCamp Premium Plan Access Code was sent to your email address. Please get in touch with us at learn@aisingapore.org if you did not receive your access code.
+
+
+ "
+81,The duration of the AI4I program has been extended and additional DataCamp premium plan access codes have been purchased to continue learning. Where can I find my access code? (AI4I Batch 5 and May 2020 learners only),The DataCamp Premium Plan Access Code has been sent to your email address. Please contact us at learn@aisingapore.org if you have not received your access code.
+82,Will I get a certificate at the end of the AI4I programme?,"
+The AI4I programme consists of 3 parts:
+1. Literacy in AI
+2. Foundations in AI
+3. Proficiency in AI
+You will receive an e-certificate upon completion of each part.
+
+
+ "
+83,Will I receive a certificate upon completion of the AI4I program?,"The AI4I program consists of 3 parts:
+1. AI Literacy
+2. Fundamentals in AI
+3. AI proficiency
+You will receive an e-certificate upon completion of each part."
+84,Will I still have access to Datacamp upon completion of AI4I?,"
+
+
+
+
+
+
+
+
+
+Your 12-month DataCamp subscription starts upon successful redemption of your DataCamp access code. You may check your DataCamp subscription by following the steps provided at this link. 
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+ "
+85,Can I still access Datacamp after AI4I is completed?,Your 12-month DataCamp subscription will begin upon successful redemption of your DataCamp access code. You can check your DataCamp subscription by following the steps on this link.
+86,"I'm in the process of learning my Literacy in AI, what should I do?","
+
+
+You can still continue to complete the previous version of the course up until the end of the transition period.
+
+
+
+
+ "
+87,"I am learning my literacy in AI, what should I do?",You can continue to take the previous version of the course until the end of the transition period.
+88,"Can I change my AI4S group's start date? As the educator, I need access before the start date to review the content.","
+
+
+If you need access before your class’s start date, please reflect that as the start date during registration.
+
+
+ 
+
+
+ "
+89,"Can I change the start date of my AI4S group? As the teacher, I need to get there before the start date to review the content.","If you need access before the start date of your class, please indicate that as the start date during registration."
+90,"I would like to introduce AI to my students to help them see the relevance of AI in everyday life, where can I start?","
+
+
+We recommend you to introduce AI Singapore’s online course “AI for Everyone“ to your students.  The course is free. To enrol to the course, you will have to sign up for the free LearnAI membership.
+
+
+This post was modified 6 months ago by  
+
+ "
+91,"I would like to introduce AI to my students to help them see the relevance of AI in everyday life, where can I start?","We recommend that you introduce AI Singapore's online course ""AI for Everyone"" to your students. The course is free. To enroll in the course, you will need to register for the free LearnAI membership.
+
+
+This post was edited 6 months ago by"
+92,Are there any projects that can be incorporated into my course?,"
+
+
+Students can apply what they learnt in courses through DataCamp Projects. Alternatively, you may wish to explore AI Singapore’s open source software which your staff/students may find useful.
+
+
+
+
+ "
+93,Is there a project that can be incorporated into my course?,"DataCamp projects allow students to apply what they learn in the course. Alternatively, you can explore AI Singapore's open source software that staff/students may find useful."
+94,Will students receive a DataCamp certificate upon completion of a DataCamp module?,"
+
+
+Yes, students receive DataCamp certificates upon completion of any courses/modules, skill tracks and career tracks.
+
+
+ 
+
+
+ "
+95,Do students receive a DataCamp Certificate of Completion when they complete a DataCamp module?,"Yes, students receive DataCamp certificates upon completion of any courses/modules, skill tracks, and career tracks."
+96,"I am an educator, can I extend my DataCamp group after 6 months?","
+
+
+No, you cannot extend your DataCamp group access after 6 months.  The existing DataCamp group cannot be extended.  However, you can submit a new application for a new group.  Please note that the existing group configuration cannot be copied / transferred to the new group.
+
+
+ 
+
+
+ "
+97,"I am an educator, can I extend my DataCamp group after 6 months?","No, you can't renew access to a DataCamp group after 6 months. An existing DataCamp group cannot be extended. However, you can submit a new application for a new group. Please note that an existing group configuration cannot be copied/transferred to a new group."
+98,Where can I find a list of all DataCamp's modules?,"
+
+
+You can find it here.
+
+
+ 
+
+
+ "
+99,Where can I find a list of all DataCamp modules?,You can find it here.
+100,Who can apply for the AI4S (Educator) group?,"
+
+
+
+
+
+
+
+
+
+All teaching staff from local educational institutes from government / government-aided secondary schools and Post-Secondary Education Institutes (PSEI) can apply for the AI4S (Educator) group.
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ "
+101,Who can apply for the AI4S (educator) group?,All teachers from local educational institutions of state/state-assisted secondary schools and Higher Education Institutes (PSEI) can apply for the AI4S (Educator) group.
+102,Do students receive a certificate issued by AI Singapore after completing the AI4S programme in LearnAI?,"
+
+
+Upon completion of the AI4S programme, an e-certificate will be issued to the learner.
+
+
+
+
+ "
+103,Do students receive a certificate issued by AI Singapore after completing the AI4S program in LearnAI?,"At the end of the AI4S program, an electronic certificate will be issued to the learner."
+104,Where can I access the AI for Kids (AI4K)®Storybook?,"
+
+
+You can download the digital copy at our LearnAI section here
+
+
+ 
+
+
+ "
+105,Where can I access AI for Kids (AI4K)® Storybooks?,You can download the digital copy in our LearnAI section here
+106,Can I arrange dedicated sessions for my school's teachers / parent support group to attend the Train-the-Trainer (TTT) course?,"
+
+
+Yes, the school must commit to a minimum class size of 10 participants (TTT course fee applies).
+
+
+ 
+
+
+ "
+107,Can I arrange special classes for my school's teachers/parent support group so they can attend the Train-the-Trainer (TTT) course?,"Yes, the school must commit to a minimum class size of 10 participants (TTT course fee applies)."
+108,Will I be able to conduct the AI4K Bootcamp outside primary schools on my own after my certification?,"
+
+
+No. However, AISG/AI Learning Lab can organize the session with you as the lead trainer.
+
+
+ 
+
+
+ "
+109,Will I be able to conduct the AI4K Bootcamp outside of primary schools by myself after my certification?,"No. However, AISG/AI Learning Lab can organize the session with you as the main trainer."
+110,How long is the AI4K Certified Instructor certificate valid for?,"
+
+
+It is valid for 2 years.
+
+
+
+
+ "
+111,How long is the AI4K Certified Instructor certificate valid for?,It is valid for 2 years.
+112,How can I register/apply for AI4K Train-the-Trainer (TTT)?,"
+
+
+Please contact us at AI Learning Lab at darrentan@ailearninglab.org to indicate your interest. AI Learning Lab is our licensed partner for AI4K Certified Instructor programme.
+
+
+ 
+
+
+ "
+113,How can I register/subscribe to AI4K Train-the-Trainer (TTT)?,Please contact us at the AI ​​Learning Lab at darrentan@ailearninglab.org to express your interest. AI Learning Lab is our licensed partner for the AI4K Certified Instructor program.
+114,Do I need to pay for the Train-the-Trainer (TTT)?,"
+
+
+Yes, the fee is SGD 550.
+
+
+
+
+ "
+115,Do I have to pay for the Train-the-Trainer (TTT)?,"Yes, the fee is 550 SGD."
+116,Can I use my SkillsFuture credits to apply?,"
+
+
+No, not at the moment.
+
+
+
+
+ "
+117,Can I use my SkillsFuture credits to apply?,"No, not now."
+118,When will I be awarded the AI4K certificate?,"
+
+
+You are required to attend all 2 days course, pass the assessment and peer reviews, and facilitate at least 1 AI4K public bootcamp in order to be certified.
+
+
+
+
+ "
+119,When will I receive the AI4K certificate?,"You must attend all 2 days of the course, pass assessment and peer reviews, and facilitate at least 1 public AI4K bootcamp to become certified."
+120,What is AI4K Train-the-Trainer (TTT)?,"
+
+
+This is a 2-day course conducted by our Certified Training Partner.  Trainees will learn AI4K curriculum, be able to present and conduct the hands-on activities independently. The trainees will be peer-reviewed and graded by Master Trainer.
+
+
+
+
+ "
+121,What is AI4K Train-the-Trainer (TTT)?,This is a two-day course delivered by our Certified Learning Partner. The trainees will learn the AI4K curriculum and be able to independently present and conduct practical exercises. The trainees will be tested and evaluated by the master trainer.
+122,What is an AI4K Certified Instructor?,"
+
+
+This is a certificate awarded to participants who pass our AI4K Train-the-Trainer course. As a certified instructor, you will have full access to our AI4K lesson and materials and be qualified to teach AI4K-branded workshop in the primary school you are volunteering in.
+
+
+ 
+
+
+ "
+123,What is an AI4K Certified Instructor?,"A certificate awarded to participants who have passed the AI4K Train-the-Trainer course. As a certified instructor, you will have full access to AI4K lessons and materials and will be qualified to teach AI4K branded workshops at volunteer elementary schools."
+124,Which email address will the reimbursement notification be sent to?,"
+The email address associated with your PayPal account will get the notification of your reimbursement.
+
+
+ "
+125,What email address will the refund notice be sent to?,Refund notifications will be sent to the email address associated with your PayPal account.
+126,Unable to form SUG,"
+Hi there, 
+Please refer to the FAQ link below on how you can form the Student User Group (SUG) with others.
+ https://epoch.aisingapore.org/community/faq-aisop/can-i-form-the-student-user-group-sug-with-friends-from-other-institutions/ 
+
+
+ "
+127,Unable to form SUG,"Hello,
+Please refer to the FAQ link below on how to configure a Student User Group (SUG) with others.
+ https://epoch.aisingapore.org/community/faq-aisop/can-i-form-the-student-user-group-sug-with-friends-from-other-institutions/"
+128,"For Level 3, I don’t wish to purchase the bundle by CloudMile. Can I purchase the Google Professional Machine Learning Engineer exam voucher and/or Coursera access and/or Qwiklabs access on my own and claim for the reimbursement afterwards?","
+Yes. In this case, please ignore the email and payment link provided by CloudMile.
+You may purchase the Google Professional Machine Learning Engineer exam voucher (one-time) and/or Coursera access and/or Qwiklabs access on your own. The maximum total amount that you can claim for reimbursement for the three items is S$$877.40 (including GST). 
+You have 365 days from the date of “AI Student Outreach Programme Level 3 Acceptance”  email to obtain the Google Professional Machine Learning Engineer Certificate and reimburse from AI Singapore. Note that you MUST obtain the Google Professional Machine Learning Engineer Certificate in order to claim for the Coursera and/or Qwiklabs expenses. 
+Coursera and Qwiklabs invoices must be dated within 365 days from the date of “AI Student Outreach Programme Level 3 Acceptance” email. Both invoices must be dated prior to your Google Professional Machine Learning Engineer Certificate issuance date. 
+Make one submission to claim all items. Please use the payment invoice(s) issued by your merchant(s) to claim for reimbursement from AI Singapore.
+Check for the latest claim instructions in the Programme Booklet which you can download from the AI Student Outreach Programme website.
+"
+129,"For level 3, I don't want to buy the plan through CloudMile. Can I purchase the Google Professional Machine Learning Engineer exam voucher and/or Coursera and/or Qwiklabs access on my own and request a refund afterwards?","Yes. In this case, ignore the email and payment link provided by CloudMile.
+You can purchase a Google Professional Machine Learning Engineer exam voucher (one-time) and/or access to Coursera and/or access to Qwiklabs on your own. The maximum total amount you can claim as a refund for three items is $877.40 (including GST).
+You have 365 days from the date of the AI ​​Student Outreach Level 3 acceptance email to receive your Google Professional Machine Learning Engineer certification and be reimbursed by AI Singapore. Please note that you MUST be certified as a Google Professional Machine Learning Engineer to qualify for Coursera and/or Qwiklabs reimbursement.
+Coursera and Qwiklabs invoices must be dated within 365 days of the AI ​​Student Outreach Level 3 Program Acceptance email date. Both invoices must be dated prior to the issue date of the Google Professional Machine Learning Engineer certification.
+Make one submission to receive all items. Please use the payment invoice(s) issued by your merchant(s) to claim a refund from AI Singapore.
+See the latest application instructions in the program booklet, which can be downloaded from the AI ​​Student Outreach Program website."
+130,Are all the courses held online?,"
+Level 1 to 3 courses are self-directed learning (online). You may enjoy the flexibility and convenience of managing your studies at your own pace and time.
+But don’t worry, you are not alone! Join AISG Community Groups and Ask-Me-Anything sessions to support your learning, networking and career development.
+"
+131,Are all courses conducted online?,"Levels 1-3 courses are self-directed (online) learning. You can enjoy the flexibility and convenience of managing your studies at your own pace and on your time.
+But don't worry, you are not alone! Join ISGF community groups and Ask-Me-Anything sessions to support your learning, networking and career development."
+132,Are the certificates awarded recognised?,"
+Each level completion offers an industry-recognized certification for you to showcase your achievement.
+"
+133,Are awarded certificates recognized?,Completing each level provides an industry-recognized certification to demonstrate your accomplishments.
+134,What can I reimburse from the $100 fund for the workshop my SUG organizes?,"
+AISG will provide reimbursement* for workshops organized by SUG. Up to 2 workshops per calendar year and capped at $100 per workshop (inclusive of GST). Please read carefully the list of claimable items, supporting documents and other requirements in the Programme Handbook.* Subjects to approval
+"
+135,What can I get back from the $100 fund for a seminar my SUG organizes?,"AISG will provide reimbursement* for workshops organized by SUG. Up to 2 workshops per calendar year and limited to $100 per workshop (including GST). Carefully review the list of claimable items, supporting documents, and other requirements in the Program Manual.* Subject to approval"
+136,I’m an IT student with good programming skills. Can I skip Level 1 and go straight to Level 2?,"
+Level 1 gives students a holistic view of AI, Machine Learning and AI ethics. Learn something new from this short course, before going to Level 2.
+"
+137,I am an IT student with good programming skills. Can I skip level 1 and go straight to level 2?,"Level 1 gives students a holistic view of AI, machine learning, and AI ethics. Learn something new in this short course before going to level 2."
+138,I don’t have any background in coding. Is this program suitable for me?,"
+
+Level 1 is designed for beginners with no coding required. Go for it!
+If you feel it’s too challenging, you may access our recommended pre-learning course: AI for Everyone (AI4E)®.
+
+"
+139,I have no background in programming. Is this program right for me?,"Level 1 is designed for beginners with no coding required. keep it up!
+If it seems too difficult, you can visit our recommended pre-study course: AI for Everyone (AI4E)®."
+140,Can I form the Student User Group (SUG) with friends from other institutions?,"
+We encourage you to form the Student User Group (SUG) with your school mates so you can learn together and support each other.
+Join this student-initiated Telegram Group if you need partners to form an SUG or join an existing one: 
+
+
+
+T.ME  ""https://t.me/+hwMBkce1vLs3NWY1""
+Telegram: Join Group Chat
+
+
+.
+"
+141,Can I form a Student User Group (SUG) with friends from other institutions?,"We recommend forming Student User Groups (SUGs) with your schoolmates so that you can learn together and support each other.
+If you need a partner to form a SUG or join an existing group, join this student-led Telegram group.
+
+
+
+Timmy ""https://t.me/+hwMBkce1vLs3NWY1""
+Telegram: join our group chat
+
+
+."
+142,How do I sign-up for TWA+ Programme @ AI Singapore?,"
+TWA+ Programme is administered by the Academy of Singapore Teachers (AST). Please contact the Academy of Singapore Teachers (AST) for registration and further enquiries.
+This post was modified 1 week ago by  
+
+ "
+143,How do I apply for the TWA+ program @ AI Singapore?,"The TWA+ program is administered by the Academy of Singapore Teachers (AST). Please contact the Academy of Singapore Teachers (AST) for registration and further enquiries.
+This post was edited 1 week ago by"
+144,"Is TWA+ Programme @ AI Singapore applicable for educators from ITE, polytechnics and universities?","
+AI Singapore welcomes educators from ITE, polytechnics and universities. Please refer to the three tracks on the programme website here, and contact AI Singapore at learn@aisingapore.org for registration and further enquiries.
+  
+
+ "
+145,"Is the TWA+ program @ AI Singapore for ITE, college and university faculty?","AI Singapore welcomes educators from ITEs, polytechnics and universities. Please see the three tracks on the program website here and contact AI Singapore (learn@aisingapore.org) for registration and further inquiries."
+146,When does the attachment start and end?,"
+Teachers will need to indicate their proposed attachment dates when registering with the Academy of Singapore Teachers (AST). AST will check with AI Singapore on the availability.
+Teachers can extend their work attachment through Professional Development Leave (PDL).
+"
+147,When does the facility start and end?,"Teachers must indicate their proposed attachment dates when registering with the Academy of Singapore Teachers (AST). AST will contact AI Singapore regarding availability.
+Teachers can extend their work allowance through Professional Development Leave (PDL)."
+148,Will I be paid for the attachment?,"
+Teachers will still receive a salary from MOE during the work attachment.
+  "
+149,Do I get paid for the attachment?,Teachers will continue to receive salaries from the Ministry of Emergency Situations while they work.
+150,How do I change the name that appears on my certificate?,"
+For a request for a name change on accredible certificate, you are required to sign in to your accredible credential to submit the request. Please refer to the FAQ here.
+Separately, do also log in to your LearnAI profile and edit the first name to reflect your full name, which will be displayed accordingly in future certificates.
+  "
+151,How do I change the name on my certificate?,"For a name change request on the credible certificate, you must log in to your credible credential to submit the request. Please see the FAQ here.
+Separately, log in to your LearnAI profile and edit your first name to reflect your full name, which will display properly on future certificates."
+152,Reset my password,"
+Refer to FAQ ""Signing up and Logging into LearnAI account""
+
+
+ "
+153,reset my password,"See FAQ ""Signing up and logging in to the LearnAI account"""
+154,How do I delete my LearnAI account,"
+Write to us by selecting the Category, LearnAI, here. 
+Note: Once account is deleted, this action can't be undone and all records are lost.
+
+
+ "
+155,How do I delete my LearnAI account?,"Please contact us by selecting the category LearnAI here.
+Note: Once your account is deleted, this action cannot be undone and all records will be lost."
+156,How do I change my email address?,"
+Refer to FAQ ""How do I update my personal details for my LearnAI account""
+
+
+ "
+157,How do I change my email address?,"See the FAQ ""How do I update my personal details for my LearnAI account?"""
+158,Signing up and Logging into LearnAI account,"
+Creating a LearnAI Account 
+ If you don't already have an account and would like to sign up, follow these steps: 
+1. Navigate to the LearnAI page
+2. Click ""No Account? Register here. 
+3. Once you are re-directed to Checkout page, fill in your personal details to create an account. (Note: If there is already a LearnAI account with that email address, you will need a different email to create a new account.)
+
+
+
+ 
+Logging in to an Existing DataCamp Account 
+1. Navigate to the LearnAI page
+2. Enter your username/account's email and password (Note: If you can't remember your password, click ""Lost your password?"" to create a new one.) 
+3. Click Log In
+
+
+
+ 
+Accessing LearnAI's Content 
+Once you have created an account, you can start learning the Free courses. (Note: Course Fee applies for Foundations in AI course)
+  
+
+ "
+159,Registering and logging in to your LearnAI account,"Create a LearnAI account
+ If you don't have an account yet and would like to sign up, follow these steps:
+1. Navigate to the LearnAI page
+2. Click on ""Don't have an account? Sign up here.
+3. Once you are redirected to the payment page, fill in your personal details to create an account. (Note: If a LearnAI account already exists with that email address, you will need a different email address to create a new account.)
+
+
+
+
+Sign in to an existing DataCamp account
+1. Navigate to the LearnAI page
+2. Enter your account username/email and password (Note: If you can't remember your password, click ""Lost your password?"" to create a new one).
+3. Click Sign In
+
+
+
+
+Access to LearnAI content
+Once you have created an account, you can start learning the free courses. (Note: Course fee applies to Fundamentals in AI course)"
+160,How do I update my personal details for my LearnAI account?,"
+1. Log in to your LearnAI account here and go to My Account 
+2. Click ""Edit Profile"" (Note: Citizenship and NRIC can't be changed once confirmed. To make changes, please write to us by selecting the Category, LearnAI, here.) 
+3. Make the changes and click ""Save Changes""
+
+
+
+  
+
+ "
+161,How do I update my personal information for my LearnAI account?,"1. Login to your LearnAI account here and go to My Account
+2. Click on ""Edit Profile"" (Note: Citizenship and NRIC cannot be changed after confirmation. To make changes, please write to us by selecting the ""LearnAI"" category here.)
+3. Make the changes and click ""Save Changes""."
+162,What are the premium membership plan subscription fee,"
+Visit the LearnAI website to learn more about the membership plan subscription fee.
+
+
+ "
+163,What is the subscription fee for the premium membership plan,"For more information on subscription pricing for membership plans, please visit the LearnAI website."
+164,How do I redeem a coupon code on the LearnAI site?,"
+At the checkout page, key in your coupon code in the coupon code area (shown below):
+ 
+
+Scroll to the end of the page and you should see that the discount is applied.
+
+Click on Place Order to complete the transaction.
+You will be directed to a page with your order details as shown below: 
+
+You will see that the 12-month DataCamp Premium Plan Access Code is included in your order. Please refer to our FAQs on instructions to redeem your DataCamp Premium Plan Access Code here
+You will also receive a copy of the tax invoice by email.
+
+
+ "
+165,How do I redeem a coupon code on the LearnAI website?,"On the checkout page, type your coupon code into the coupon code area (shown below):
+
+
+Scroll to the bottom of the page and you should see the discount is applied.
+
+Click Place order to complete the transaction.
+You will be directed to a page with your order details as shown below:
+
+You will see that the 12-month DataCamp Premium plan access code is included with your order. Refer to our FAQ on instructions for redeeming your DataCamp Premium plan access code here
+You will also receive a copy of the tax invoice by email."
+166,"Is the LearnAI Premium Membership fee eligible for any government funding such as SSG, WSG, CITREP, etc?","
+The LearnAI Premium Membership fee is not eligible for any subsidy, including SkillsFuture Credit.
+AISG funding is already incorporated into the membership fee for Singapore Citizens / Singapore Permanent Residents.
+With AISG funding, Singapore Citizens / Singapore Permanent Residents will only pay SGD$224.70 annually for the LearnAI Premium membership, as compared to the full fee of $738.30 which is applicable to Others.
+
+
+ "
+167,"Is the LearnAI Premium membership fee eligible for any government funding such as SSG, WSG, CITREP, etc.?","LearnAI Premium Membership fees are not eligible for subsidies, including SkillsFuture credits.
+AISG funds are already incorporated into Singapore Citizen/Singapore Permanent Resident dues.
+Funded by AISG, Singapore Citizens/Singapore Permanent Residents will only pay S$224.70 per year for LearnAI Premium Membership."
+168,How do I share my credentials on LinkedIn?,"
+Upon completion of the AI for Everyone Theory and Literacy in AI courses, you should receive your badge/certificates via email from Accredible. 
+To share your credentials on LinkedIn, please follow these steps: 
+Step 1: Click on ‘View badge’ or ‘View certificate’
+Step 2: Under ‘Share your achievement’, click on the LinkedIn icon.
+
+Your badge/certificate will be shown as a LinkedIn post on your profile.
+
+To obtain your LinkedIn post URL, please follow this article.
+
+
+ "
+169,How do I share my credentials on LinkedIn?,"Upon completion of the AI ​​for Everyone Theory and Literacy in AI courses, you should receive your badge/certificates via email from Accredible.
+To share your LinkedIn credentials, follow these steps:
+Step 1: Click on 'View badge' or 'View certificate'
+Step 2: In 'Share your achievement', click on the LinkedIn icon.
+
+Your badge/certificate will be shown as a LinkedIn post on your profile.
+
+To get the URL of your LinkedIn post, follow this article."
+170,"If I had completed ‘AI for Everyone Theory’ or ‘Literacy in AI’ prior, am I still eligible for the promotion?","
+
+
+Yes, simply share your badge/certificate on LinkedIn and complete this form. You will receive the promotional code for the steps that you have completed via email within 5 business days.
+
+
+
+Stackable
+
+
+
+ "
+171,Can I participate in the promotion if I have previously completed 'AI Theory for All' or 'AI Literacy'?,"Yes, just share your badge/certificate on LinkedIn and fill out this form. You will receive the promotional code for the steps you have completed via email within 5 business days.
+
+
+
+Stackable"
+172,How do I find the URL to my LinkedIn post?,"
+Step 1: Go to your LinkedIn post
+Step 2: Click on the options button on the top right corner of your post
+
+Step 3: Click on ‘Copy link to post’
+Step 4: Complete this form  to receive your promotional codes
+
+Note: Please ensure that your profile is public. 
+
+
+ "
+173,How do I find my LinkedIn post URL?,"Step 1 – Go to your LinkedIn post
+Step 2 – Click the options button in the top right corner of your post
+
+Step 3 – Click “Copy link to post”.
+Step 4: Complete this form to receive your promotional codes
+
+Note: make sure your profile is public."
+174,Do I have to unlock all 5 promo codes to receive the discount?,"
+
+
+
+
+
+
+
+
+
+No. You do not need to enter all 5 promotion codes to enjoy the discount.
+
+
+
+
+
+
+
+
+
+
+
+ "
+175,Do I have to unlock all 5 promotional codes to get the discount?,No. You do not need to enter all 5 promo codes to enjoy the discount.
+176,How do I unlock all 5 promotional codes?,"
+
+
+Step 1: Complete ‘AI for Everyone Theory’ course and you will receive an email with the 5% promotional code. 
+Step 2: Share your ‘AI for Everyone Theory’ badge as a post on your LinkedIn profile and complete this form with the URL to your LinkedIn post for verification. You will receive the 5% promotional code via email within 5 business days. 
+Step 3: Complete ‘Literacy in AI’ course and you will receive an email with  the 5% promotional code. 
+Step 4: Share your ‘Literacy in AI’ certificate as a post on your LinkedIn profile and complete this form with the URL to your LinkedIn post for verification. You will receive the 5% promotional code via email within 5 business days. 
+Step 5: Obtaining the last 5% (giveaway bonus). We will be hosting giveaways periodically on our social media platforms. Follow the steps laid out in the post and you’re done! Do follow our various social media accounts so as to not miss any giveaways!
+Step 6: Enter all promotional codes at the checkout and click ‘Apply coupon’
+
+To see the steps to share your badge as a LinkedIn post, please visit this article. 
+To find the URL for your LinkedIn post which you will need in your form, please visit this article. 
+ 
+
+
+
+This post was modified 5 months ago 3 times by  
+
+ "
+177,How do I unlock all 5 promo codes?,"Step 1: After completing the ""AI for Everyone Theory"" course, you will receive an email with a 5% promo code.
+Step 2: Share the ""AI for Everyone Theory"" badge as a post on your LinkedIn profile and fill this form with the URL to your LinkedIn post for verification. You will receive a 5% promo code via email within 5 business days.
+Step 3: After completing the ""Literacy in AI"" course, you will receive an email with a 5% promo code.
+Step 4: Share your “Literacy in AI” certificate as a post on your LinkedIn profile and fill this form with the URL to your LinkedIn post for verification. You will receive a 5% promo code via email within 5 business days.
+Step 5: Get the last 5% (present bonus). We host regular giveaways on our social media platforms. Follow the steps mentioned in the post. Follow our various social media accounts so you don't miss out on giveaways.
+Step 6: Enter all promo codes at checkout and click ""Apply Coupon"".
+
+See this article for instructions on how to share your badge as a LinkedIn post.
+To find the LinkedIn post URL you need for your form, visit this article.
+
+
+
+
+This post was modified 3 times 5 months ago."
+178,Who is eligible for the 'Stack it up' promotion?,"
+All LearnAI learners are eligible for the promotion. This promotion is subject to the terms and conditions.
+
+
+ "
+179,Who is eligible for the 'Stack it up' promotion?,All LearnAI students are eligible for the promotion. This promotion is subject to terms and conditions.
+180,Where can I retrieve my DataCamp Premium Plan Access Code?,"
+A. For learners who signed up for LearnAI Premium Membership from 20 May 2021 onwards
+Your DataCamp Premium Plan Access Code can be found in your account settings, under the Orders section:
+You will see at least 2 orders in your account. 
+Click “View” on the order with the paid subscription amount:
+
+You should see your DataCamp Premium Plan Access Code as shown below: 
+
+Please create a free DataCamp account here if you do not have an existing DataCamp account. 
+ 
+B. For learners who signed up for AI for Industry (AI4I) Programme ( before 20 May 2021 )
+If you are an existing AI4I subscriber, during the migration to the new LearnAI  on 20 May 2021, you are converted to a LearnAI Premium member.  Your DataCamp Premium Plan Access Code assigned to you before 20 May 2021 ( with the purchase of AI4I programme) can be found under “Legacy DC Code” in your account.
+
+ 
+
+
+ "
+181,Where can I retrieve my DataCamp Premium plan access code?,"A. For students who signed up for LearnAI Premium Membership on or after May 20, 2021
+Your access code to the DataCamp Premium plan can be found in your account settings, in the Orders section:
+You will see at least 2 orders in your account.
+Click ""View"" on the order with the amount of the paid subscription:
+
+You should see your DataCamp Premium plan access code as shown below:
+
+Create a free DataCamp account here if you don't have an existing DataCamp account.
+
+B. For students who enrolled in the AI ​​for Industry (AI4I) program (before May 20, 2021)
+If you are already an AI4I subscriber, during the migration to the new LearnAI on May 20, 2021, you become a LearnAI Premium member. Your DataCamp Premium plan access code assigned to you before May 20, 2021 (with purchase of the AI4I program) can be found under ""Legacy DC Code"" in your account."
+182,How do I redeem the DataCamp Premium Access?,"
+
+
+How do I redeem the DataCamp Premium Access?
+
+
+
+
+A. For learners who signed up from 20 May 2021 onwardsStep 1: Copy and paste the link found in the section “Your DataCamp Code(s)” into your browser. Refer to Where can I retrieve my DataCamp Premium Plan Access Code? to locate your Access Code.
+Step 2: If you are not signed in to DataCamp, sign in first using your email address and password.
+ 
+
+Step 3: The access code will be pre-populated in the Promo Code field.  If the access code is not filled in, copy the 14-character alphanumeric code after the = from the URL.
+Eg: 
+
+ 
+ Step 4: Click on Redeem Code to redeem your 12-month subscription.
+
+ 
+B. For learners who signed up before 20 May 2021
+Step 1: Click on the link found in your account under “Legacy DC Code”. The legacy code can be found in your account settings. Refer to Where can I retrieve my DataCamp Premium Plan Access Code? to locate your Access Code.
+Step 2: If you are not signed in to DataCamp, sign in first using your email address and password.
+ 
+
+ 
+Step 3: The access code will be pre-populated in the Promo Code field.  If the access code is not filled in, copy your legacy code into the field.
+ 
+Step 4: Click on Redeem Code to redeem your 12-month DataCamp Premium Plan subscription.
+
+
+
+This post was modified 3 months ago by  
+
+ "
+183,How do I redeem DataCamp Premium Access?,"How do I redeem DataCamp Premium Access?
+
+
+
+
+A. For learners who signed up after May 20, 2021 Step 1: Copy and paste the link in the ""DataCamp Code"" section into your browser. See Where can I get an access code for the DataCamp Premium plan? Find your access code.
+Step 2: If you are not already signed in to DataCamp, first sign in using your email address and password.
+
+
+Step 3: Your access code will be pre-populated in the Promo Code field. If the access code is not entered, copy the 14-character alphanumeric code after = from the URL.
+for example:
+
+
+Step 4: Click Redeem Code to redeem your 12-month subscription.
+
+
+B. For learners who signed up before May 20, 2021
+Step 1: Click the link under ""Legacy DC Codes"" in your account. You can find your old code in your account settings. See Where can I get an access code for the DataCamp Premium plan? Find your access code.
+Step 2: If you are not already signed in to DataCamp, first sign in using your email address and password.
+
+
+
+Step 3: Your access code will be pre-populated in the Promo Code field. If the access code was not entered, copy the legacy code into the field.
+
+Step 4: Click Redeem Code to redeem your 12-month DataCamp Premium Plan subscription.
+
+
+
+This post was modified 3 months ago."
+184,"I checked that my subscription has expired on DataCamp, but when I try to redeem the DataCamp Premium Plan Access Code, DataCamp says I still have an active subscription.","
+
+
+A 2-week grace period is given after the expiry date of your DataCamp account. You would still have access to DataCamp premium content during these 2 weeks. You can only redeem the DataCamp Premium Plan Access Code after the grace period.
+
+
+
+
+ "
+185,"I verified that my subscription has expired in DataCamp, but when I try to redeem the DataCamp Premium Access Code, DataCamp says that I still have an active subscription.","After your DataCamp account expires, there is a two-week grace period. You will still have access to DataCamp premium content during these 2 weeks. You can redeem your DataCamp Premium plan access code only after the grace period has expired."
+186,I have forgotten the password of my DataCamp account. Can I reset it?,"
+Step 1: Log in to DataCamp
+Step 2: Click Next
+Step 3: Enter your email address
+Step 4: Click on Forgot Password?
+Step 5: Reconfirm your email address and click Reset Password
+Step 6: You will receive an email with the next steps to reset your password
+
+
+ "
+187,I forgot my DataCamp account password. Can I reset it?,"Step 1: Log in to DataCamp
+Step 2: Click Next
+Step 3: Enter your email address
+Step 4: Click Forgot your password?
+Step 5: Double-check your email address and click Reset Password
+Step 6: You will receive an email with next steps to reset your password"
+188,"I have two 12-month DataCamp Premium Plan Access Codes, how do I redeem them both?","
+
+
+You have to redeem the first access code for the first 12-month DataCamp Premium Plan.  After the first 12-month DataCamp Premium Plan has expired, you can redeem the second code. Please note the Datacamp access code is valid for redemption until 31 Oct 2024.
+
+
+
+
+ "
+189,There are two 12-month DataCamp Premium plan access codes. How can I use both codes?,"You must redeem your first access code for your first 12 months of DataCamp Premium Plan. You can redeem your second code after your first 12-month DataCamp Premium Plan expires. Datacamp access codes are valid until October 31, 2024."
+190,When does my DataCamp Premium Plan subscription expire?,"
+
+
+Your subscription will expire 12 months upon successful redemption. You can find the exact date in the Subscription section of your Account Settings in DataCamp.
+
+
+ 
+
+
+ "
+191,When does my DataCamp Premium Plan subscription expire?,"Upon successful redemption, your subscription will expire in 12 months. You can find the exact date in the Subscriptions section of your DataCamp account settings."
+192,Do I have to redeem my DataCamp Premium Plan Access Code immediately?,"
+
+
+The DataCamp access code is valid for redemption until 31 Oct 2024. You may redeem it any time before the end date.
+
+
+
+
+ "
+193,Need to redeem your DataCamp Premium Plan access code immediately?,"The DataCamp access code can be redeemed until October 31, 2024. You can redeem it any time before the end date."
+194,"I already have a free DataCamp account, will I keep my account progress when I use the 12-month DataCamp Premium Plan Access Code?","
+Yes! Your free DataCamp account will be converted to a 12-month DataCamp Premium account. If you are already signed in, you can follow the instructions in How do I redeem the DataCamp Premium Access? .If you are not signed in, click on the activation link and enter the email address used for your free account as indicated below.
+
+
+
+ "
+195,"I already have a free DataCamp account. If I use the 12-month DataCamp Premium Plan access code, will my account progress be preserved?","Yes! Your free DataCamp account will be converted to a 12-month DataCamp Premium account. If you are already logged in, you can follow the instructions in How do I use DataCamp Premium Access? .If you are not logged in, click on the activation link and enter the email address used for your free account as shown below."
+196,"I have an existing DataCamp Premium Plan subscription, how do I redeem my 12-month DataCamp Premium Plan Access Code?","
+Please note that you will not be able to redeem the 12-month DataCamp Premium Plan with the Access Code we have provided while you have an existing paid plan. You can only redeem the 12-month DataCamp Premium Plan access AFTER your current paid plan expired.
+If you attempt to redeem your DataCamp Premium Plan Access Code before your current DataCamp Premium Plan expires, you will receive the following error message:
+
+
+
+ "
+197,"I have an existing DataCamp Premium plan subscription, how do I redeem my 12-month DataCamp Premium plan access code?","Please note that you will not be able to activate the 12-month DataCamp Premium plan with the access code we provided while you have an existing paid plan. You can only activate 12-month access to DataCamp Premium Plan AFTER your current paid plan expires.
+If you try to redeem your DataCamp Premium plan access code before your current DataCamp Premium plan expires, you will receive the following error message:"
+198,Terms and Conditions,"
+
+
+
+
+
+ "
+199,Terms and Conditions,
+200,How to use the voucher code?,"
+Step 1Sign up for a LearnAI account. Refer to the FAQ ""Signing Up and Logging into LearnAI Account"" 
+Note: To access AI4I® – Foundations in AI course, you will need to complete AI4I® – Literacy in AI
+Step 2                                                                                                                                                                 Please ensure you are signed in to your LearnAI account to proceed to purchase the AI4I® – Foundations in AI course after completing AI4I® – Literacy in AI. Please select according to your nationality as shown below.
+
+
+
+Step 3                                                                                                                                                                       At the checkout page, please use the voucher code INTMD-Z5ZN to offset 25% off AI4I® – Foundations in AI course fee. (Note: Please input the correct discount code in your cart summary)
+
+
+
+Step 4                                                                                                                                                                      Once completed, an ‘Enroll Now’ button will appear for AI4I® – Foundations in AI for learners to start your learning. 
+
+
+
+  
+
+ "
+201,How to use the coupon code?,"Step 1Sign up for a LearnAI account. See FAQ ""Register and Login to LearnAI Account""
+Note: To access the AI4I® - Foundations in AI course, you will need to complete AI4I® - Literacy in AI
+Step 2 Make sure you sign in to your LearnAI account to proceed to purchase the AI4I® - AI Foundations course after completing AI4I® - AI Literacy. Please select based on your nationality as shown below.
+
+
+
+Step 3 On the checkout page, use the coupon code INTMD-Z5ZN to offset a 25% discount on AI4I®-Foundations on the AI ​​course fee. (Note: Enter the correct discount code in your cart summary)
+
+
+
+Step 4 Once completed, an ""Enroll Now"" button for AI4I® - Foundations in AI will appear for learners to begin their learning."
+202,The voucher code validity,"
+The voucher code, INTMD-Z5ZN, is valid from 14 March to 21 March 2023, 2359 hours.
+  
+
+ "
+203,Validity period of the voucher code,"Voucher code, INTMD-Z5ZN, is valid from March 14 to March 21, 2023, 2359 hours."
