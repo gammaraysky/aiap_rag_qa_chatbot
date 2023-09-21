@@ -1,5 +1,5 @@
 # AIAP RAG Chatbot
-This repo is for AI Singapore's AIAP Batch 12 Group Presentation Topic: "Transfer Learning in NLP". 
+This repo is for AIAP Batch 12 Group Presentation Topic: "Transfer Learning in NLP". 
 
 In this repo, we attempt to create a custom chatbot using pretrained models. The model we use is the RAG model.
 
